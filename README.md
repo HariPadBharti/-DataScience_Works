@@ -1,7 +1,7 @@
-# Data Science Skills
+### Data Science Skills
 
 
-# Works
+##### Works
 - [x] Web Data Scraping
 - [x] Data Pipeline setup on AWS
 - [x] S3 Access Module and storage management
