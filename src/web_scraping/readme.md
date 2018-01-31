@@ -1,2 +1,1 @@
-
-#Simple sample scraping files :-
+# Simple sample scraping files :-
